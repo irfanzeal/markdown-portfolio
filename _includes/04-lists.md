@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+ - 1. Favourite Website - Github
+ - 2. Favourite Emoji 💙
+ - 3. Favourite Food - Pizza
